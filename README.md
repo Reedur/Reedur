@@ -26,7 +26,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic"height="150" style="border-radius:50px;" src="Picrewの「休憩メーカー」でつくったよ！ https://picrew.me/share?cd=WGNcn9IirV #Picrew #休憩メーカー"
+ 
                                                                                  
 </div>
   
+![23e358ab4e5e012741a0ce0a4e19d3dcc30a0c59_hq](https://user-images.githubusercontent.com/97039735/160955270-3372474f-38fc-4706-9135-9c8eecab06d1.gif)
