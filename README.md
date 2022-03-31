@@ -1,4 +1,4 @@
-### Olá! Eu sou o Reedur 👋🏻
+### Olá! Eu sou o Renan. 🤞
 
 <div align="center">
   <a href="https://github.com/Reedu">
