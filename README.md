@@ -1,4 +1,4 @@
-### Olá! Eu sou Reedur👋
+### Olá! Eu sou o Reedur👋
 
 
 
